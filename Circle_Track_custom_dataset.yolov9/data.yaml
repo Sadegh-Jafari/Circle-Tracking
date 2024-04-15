@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Circle']
+
+roboflow:
+  workspace: isu-cede4
+  project: dot_track_vid
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/isu-cede4/dot_track_vid/dataset/2
