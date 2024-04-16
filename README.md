@@ -1,7 +1,8 @@
 # Circle-Tracking
 
-<br/>
+
 ## Project Overview
+<br/>
 This project develops a tracking algorithm to detect and track moving bubbles in the video "Dot_Track_Vid_2024_fall.MP4". The final output includes a video with annotated bounding boxes and bubble IDs, and a .txt file documenting the bubble locations in each frame.
 <br/>
 
